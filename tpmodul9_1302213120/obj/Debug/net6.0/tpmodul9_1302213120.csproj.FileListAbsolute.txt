@@ -30,3 +30,17 @@ C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\obj\Debug\ne
 C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\obj\Debug\net6.0\tpmodul9_1302213120.pdb
 C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\obj\Debug\net6.0\tpmodul9_1302213120.genruntimeconfig.cache
 C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\obj\Debug\net6.0\ref\tpmodul9_1302213120.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\walid\source\repos\tpmodul9_1302213120\tpmodul9_1302213120\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
